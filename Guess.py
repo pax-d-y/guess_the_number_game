@@ -1,10 +1,10 @@
 Print("*********Guess the number game***********")
 import random
-Var_1 = random.randint(0,10)
-Var_2  = input("Enter a number")
-if(Var_1>Var_2)
+Comp = random.randint(0,10)
+User  = input("Enter a number")
+if(Comp>User)
 print("Var_1 is greater")
-elif(Var1<Var_2)
+elif(User<Comp)
 print("Var_2 is greater")
 else 
 print("invalid number")
