@@ -8,5 +8,5 @@ elif(User<Comp)
 print("Var_2 is greater")
 else 
 print("invalid number")
-print("i was inconsistent
+print("i was inconsistent")
 
